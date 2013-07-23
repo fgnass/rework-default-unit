@@ -1,0 +1,26 @@
+{
+  "name": "rework-default-unit",
+  "version": "0.0.1",
+  "description": "Add a default unit to numeric properties",
+  "keywords": [
+    "rework",
+    "css"
+  ],
+  "author": "Felix Gnass",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/fgnass/rework-default-unit.git"
+  },
+  "dependencies": {
+    "rework-visit": "~1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*",
+    "rework": "*"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "mocha --require should"
+  }
+}
