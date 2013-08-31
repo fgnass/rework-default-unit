@@ -2,4 +2,6 @@
   width: 200px;
   font-size: 90%;
   z-index: 1;
+  padding: 10px 15px;
+  margin: 5px 10px 15px 20px;
 }
